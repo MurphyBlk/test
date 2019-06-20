@@ -115,11 +115,13 @@ body, html {
 	line-height: inherit;
 	text-align: center;
 	float: none;
-	width: 65%;
-	height: 30px;
+	width: 68%;
+	height: 40px;
 	padding-right: 14px !important;
 	border-right: 30px;
+	border-radius: 10px;
 	font-family: cursive;,sans-serif;
+	font-weight: bold;
 }
 
 /*Création du style de la date et du commentaire*/
